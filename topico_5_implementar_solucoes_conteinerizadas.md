@@ -1,41 +1,9 @@
 <!-- markmap -->
-<style>
-.button {
-  padding: 5px 10px;
-  font-size: 12px;
-  font-weight: bold;
-  text-align: center;
-  text-decoration: none;
-  background-color: #0078d4;
-  color: white;
-  border-radius: 3px;
-  transition: background-color 0.3s;
-}
-
-.button:hover {
-  background-color: #005a9e;
-}
-
-.button-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 10px;
-}
-
-.divider {
-  border-top: 1px solid rgb(65, 66, 67); /* Tom de cinza das linhas do Markdown */
-  margin: 20px 0;
-}
-</style>
-
-<div class="button-container">
-  <a href="topico_4_desenvolver_solucoes_que_usam_o_azure_cosmos_db.md" class="button">Anterior</a>
-  <a href="az-204_markmap.md" class="button">Início</a>
-  <a href="topico_6_implementar_autenticacao_e_autorizacao_de_usuario.md" class="button">Próximo</a>
+<div style="text-align: center; width:100%; padding-bottom:20px;">
+  <a href="topico_4_desenvolver_solucoes_que_usam_o_azure_cosmos_db.md" style="padding:50px;"><img src="img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
+  <a href="az-204_markmap.md" style="padding:50px;"><img src="img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
+  <a href="topico_6_implementar_autenticacao_e_autorizacao_de_usuario.md" style="padding:50px;"><img src="img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
 </div>
-
-<div class="divider"></div>
 
 # <div style="text-align: center; width:100%;"><img src="https://learn.microsoft.com/pt-br/training/achievements/iaas-implement-solutions.svg" alt="Soluções Conteinerizadas" width="50" height="50"> <br /> **Tópico 5: Implementar Soluções Conteinerizadas**</div>
 
