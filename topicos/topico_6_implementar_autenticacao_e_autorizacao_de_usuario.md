@@ -1,8 +1,8 @@
 <!-- markmap -->
 <div style="text-align: center; width:100%; padding-bottom:20px;">
-  <a href="topico_5_implementar_solucoes_conteinerizadas.md" style="padding:50px;"><img src="img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
-  <a href="az-204_markmap.md" style="padding:50px;"><img src="img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
-  <a href="topico_7_implementar_solucoes_seguras_do_azure.md" style="padding:50px;"><img src="img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
+  <a href="topicos/topico_5_implementar_solucoes_conteinerizadas.md" style="padding:50px;"><img src="../img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
+  <a href="az-204_markmap.md" style="padding:50px;"><img src="../img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
+  <a href="topicos/topico_7_implementar_solucoes_seguras_do_azure.md" style="padding:50px;"><img src="../img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
 </div>
 
 # <div style="text-align: center; width:100%;"><img src="https://learn.microsoft.com/pt-br/training/achievements/authentication-authorization.svg" alt="Autenticação e Autorização" width="50" height="50"> <br /> **Tópico 6: Implementar Autenticação e Autorização de Usuário**</div>

@@ -1,8 +1,8 @@
 <!-- markmap -->
 <div style="text-align: center; width:100%; padding-bottom:20px;">
-  <a href="topico_2_implementar_o_azure_functions.md" style="padding:50px;"><img src="img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
-  <a href="az-204_markmap.md" style="padding:50px;"><img src="img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
-  <a href="topico_4_desenvolver_solucoes_que_usam_o_azure_cosmos_db.md" style="padding:50px;"><img src="img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
+  <a href="topicos/topico_2_implementar_o_azure_functions.md" style="padding:50px;"><img src="../img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
+  <a href="az-204_markmap.md" style="padding:50px;"><img src="../img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
+  <a href="topicos/topico_4_desenvolver_solucoes_que_usam_o_azure_cosmos_db.md" style="padding:50px;"><img src="../img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
 </div>
 
 # <div style="text-align: center; width:100%;"><img src="https://learn.microsoft.com/pt-br/training/achievements/develop-solutions-that-use-blob-storage.svg" alt="Blob-Storage" width="50" height="50"> <br /> **Tópico 3: Desenvolver soluções que usam o Armazenamento de Blobs**</div>

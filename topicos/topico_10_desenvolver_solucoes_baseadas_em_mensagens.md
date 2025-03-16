@@ -1,8 +1,8 @@
 <!-- markmap -->
 <div style="text-align: center; width:100%; padding-bottom:20px;">
-  <a href="topico_9_desenvolver_solucoes_baseadas_em_eventos.md" style="padding:50px;"><img src="img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
-  <a href="az-204_markmap.md" style="padding:50px;"><img src="img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
-  <a href="topico_11_solucionar_problemas_de_solucoes_usando_o_application_insights.md" style="padding:50px;"><img src="img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
+  <a href="topicos/topico_9_desenvolver_solucoes_baseadas_em_eventos.md" style="padding:50px;"><img src="../img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
+  <a href="az-204_markmap.md" style="padding:50px;"><img src="../img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
+  <a href="topicos/topico_11_solucionar_problemas_de_solucoes_usando_o_application_insights.md" style="padding:50px;"><img src="../img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
 </div>
 
 # <div style="text-align: center; width:100%;"><img src="https://learn.microsoft.com/pt-br/training/achievements/message-develop-solutions.svg" alt="Soluções Baseadas em Mensagens" width="50" height="50"> <br /> **Tópico 10: Desenvolver Soluções Baseadas em Mensagens**</div>
