@@ -1,8 +1,8 @@
 <!-- markmap -->
 <div style="text-align: center; width:100%; padding-bottom:20px;">
-  <a href="topicos/topico_3_desenvolver_solucoes_que_usam_o_armazenamento_de_blobs.md" style="padding:50px;"><img src="../img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
-  <a href="az-204_markmap.md" style="padding:50px;"><img src="../img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
-  <a href="topicos/topico_5_implementar_solucoes_conteinerizadas.md" style="padding:50px;"><img src="../img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
+  <a href="topico_3_desenvolver_solucoes_que_usam_o_armazenamento_de_blobs.md" style="padding:50px;"><img src="../img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
+  <a href="../az-204_markmap.md" style="padding:50px;"><img src="../img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
+  <a href="topico_5_implementar_solucoes_conteinerizadas.md" style="padding:50px;"><img src="../img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
 </div>
 
 # <div style="text-align: center; width:100%;"><img src="https://learn.microsoft.com/pt-br/training/achievements/az-204-develop-solutions-that-use-azure-cosmos-db.svg" alt="Azure Cosmos DB" width="50" height="50"> <br /> **Tópico 4: Desenvolver soluções que usam o Azure Cosmos DB**</div>

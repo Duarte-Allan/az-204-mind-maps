@@ -1,8 +1,8 @@
 <!-- markmap -->
 <div style="text-align: center; width:100%; padding-bottom:20px;">
-  <a href="topicos/topico_10_desenvolver_solucoes_baseadas_em_mensagens.md" style="padding:50px;"><img src="../img/anterior.png" alt="../img/anterior" style="width:20px;height:20px;"></a>
-  <a href="az-204_markmap.md" style="padding:50px;"><img src="../img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
-  <a href="topicos/topico_12_implementar_o_cache_para_solucoes.md" style="padding:50px;"><img src="../img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
+  <a href="topico_10_desenvolver_solucoes_baseadas_em_mensagens.md" style="padding:50px;"><img src="../img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
+  <a href="../az-204_markmap.md" style="padding:50px;"><img src="../img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
+  <a href="topico_12_implementar_o_cache_para_solucoes.md" style="padding:50px;"><img src="../img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
 </div>
 
 # <div style="text-align: center; width:100%;"><img src="https://learn.microsoft.com/pt-br/training/achievements/monitoring-instrument-solutions.svg" alt="Application Insights" width="50" height="50"> <br /> **Tópico 11: Solucionar Problemas de Soluções usando o Application Insights**</div>

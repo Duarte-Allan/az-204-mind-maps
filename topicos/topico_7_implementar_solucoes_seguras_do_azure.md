@@ -1,8 +1,8 @@
 <!-- markmap -->
 <div style="text-align: center; width:100%; padding-bottom:20px;">
-  <a href="topicos/topico_6_implementar_autenticacao_e_autorizacao_de_usuario.md" style="padding:50px;"><img src="../img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
-  <a href="az-204_markmap.md" style="padding:50px;"><img src="../img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
-  <a href="topicos/topico_8_implementar_o_gerenciamento_de_api.md" style="padding:50px;"><img src="../img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
+  <a href="topico_6_implementar_autenticacao_e_autorizacao_de_usuario.md" style="padding:50px;"><img src="../img/anterior.png" alt="Anterior" style="width:20px;height:20px;"></a>
+  <a href="../az-204_markmap.md" style="padding:50px;"><img src="../img/inicio.png" alt="Início" style="width:20px;height:20px;"></a>
+  <a href="topico_8_implementar_o_gerenciamento_de_api.md" style="padding:50px;"><img src="../img/proximo.png" alt="Próximo" style="width:20px;height:20px;"></a>
 </div>
 
 # <div style="text-align: center; width:100%;"><img src="https://learn.microsoft.com/pt-br/training/achievements/cloud-solutions-implement.svg" alt="Soluções Seguras do Azure" width="50" height="50"> <br /> **Tópico 7: Implementar Soluções Seguras do Azure**</div>
